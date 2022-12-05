@@ -6,4 +6,5 @@
 ### demoPhoto：项目的一些演示图片 <br>
 ### red_icon：项目一些备用的图标 <br>
 ### 1015.zip：项目的压缩包 <br>
+### docx文件：中文版的操作指引
 ## 我的博客 https://blog.csdn.net/Zchengjisihan
